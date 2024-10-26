@@ -59,7 +59,7 @@
 &kp GRAVE  &kp F1      &kp F2      &kp F3        &kp F4         &kp F5           &trans     &kp F6     &kp F7         &kp F8            &kp F9             &kp F10  &kp F11
 &trans     &kp LCTRL   &kp UP      &kp END       &kp LG(LS(R))  &kp LA(LS(T))    &trans     &kp PG_UP  &kp PAGE_UP    &kp INSERT        &kp PAGE_DOWN      &trans   &kp F12
 &trans     &kp LEFT    &kp DOWN    &kp RIGHT     &kp LA(LS(E))  &kp HOME         &trans     &kp LEFT   &kp DOWN       &kp UP            &kp RIGHT          &trans   &trans
-&trans     &kp LSHIFT  &kp C_MENU  &kp CAPSLOCK  &kp LC(LA(V))  &trans           &trans     &trans     &kp LS(LA(M))  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans   &trans
+&trans     &kp LSHIFT  &kp K_MENU  &kp CAPSLOCK  &kp LC(LA(V))  &trans           &trans     &trans     &kp LS(LA(M))  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans   &trans
 &to 0      &trans      &trans      &trans        &kp LC(SPACE)  &trans           &mkp RCLK  &trans     &kp DELETE     &trans            &trans             &trans
             >;
 
