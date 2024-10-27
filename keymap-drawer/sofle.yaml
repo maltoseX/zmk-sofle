@@ -86,7 +86,7 @@ layers:
   - Gui+Sft+ R
   - Alt+Sft+ T
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - PG UP
+  - CALC
   - PgUp
   - Ins
   - PgDn
