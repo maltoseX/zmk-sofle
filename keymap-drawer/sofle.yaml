@@ -169,7 +169,7 @@ layers:
   - {t: '-', s: _}
   - {t: 'Sft+ [', s: 'Sft+ {'}
   - {t: 'Sft+ ]', s: 'Sft+ }'}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:skip-previous$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -179,10 +179,10 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '=', s: +}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '{'
+  - '}'
+  - PLAY PAUSE
+  - $$mdi:skip-next$$
   - {t: base layer, h: toggle}
   - {t: keyboard function layer, h: toggle}
   - {t: '$$mdi:transfer$$', type: trans}
