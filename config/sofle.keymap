@@ -57,7 +57,7 @@
         layer1 {
             bindings = <
 &kp GRAVE  &kp F1      &kp F2              &kp F3        &kp F4         &kp F5           &mmv MOVE_UP     &kp F6         &kp F7         &kp F8            &kp F9             &kp F10  &kp F11
-&trans     &kp LCTRL   &kp UP              &kp END       &kp LG(LS(R))  &kp LA(LS(T))    &mmv MOVE_DOWN   &kp PG_UP      &kp PAGE_UP    &kp INSERT        &kp PAGE_DOWN      &trans   &kp F12
+&trans     &kp LCTRL   &kp UP              &kp END       &kp LG(LS(R))  &kp LA(LS(T))    &mmv MOVE_DOWN   &kp K_CALC     &kp PAGE_UP    &kp INSERT        &kp PAGE_DOWN      &trans   &kp F12
 &trans     &kp LEFT    &kp DOWN            &kp RIGHT     &kp LA(LS(E))  &kp HOME         &mmv MOVE_LEFT   &kp LEFT       &kp DOWN       &kp UP            &kp RIGHT          &trans   &kp ENTER
 &trans     &kp LSHIFT  &kp K_CONTEXT_MENU  &kp CAPSLOCK  &kp LC(LA(V))  &trans           &mmv MOVE_RIGHT  &kp BACKSLASH  &kp LS(LA(M))  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans   &trans
 &to 0      &trans      &trans              &trans        &trans         &kp LC(SPACE)    &mkp LCLK        &kp DELETE     &trans         &trans            &trans             &trans
