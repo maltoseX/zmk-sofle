@@ -107,7 +107,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:apple-keyboard-shift$$
-  - MENU
+  - CONTEXT MENU
   - $$mdi:apple-keyboard-caps$$
   - Ctl+Alt+ V
   - {t: '$$mdi:transfer$$', type: trans}
