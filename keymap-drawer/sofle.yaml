@@ -54,7 +54,7 @@ layers:
   - {t: /, s: '?'}
   - {t: \, h: keyboard function layer, s: '|'}
   - $$mdi:volume-off$$
-  - '&tap_dance'
+  - Sft+Alt+ F
   - LEFT WIN
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-option$$
@@ -123,7 +123,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - Ctl+ $$mdi:keyboard-space$$
+  - Alt+ $$mdi:keyboard-space$$
   - $$mdi:mouse-left-click-outline$$
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
