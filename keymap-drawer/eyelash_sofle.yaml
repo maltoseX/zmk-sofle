@@ -61,9 +61,9 @@ layers:
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - $$mdi:apple-keyboard-shift$$
   - {t: '[', s: '{'}
-  - {t: ']', h: shortcut layer 2, s: '}'}
+  - {t: ']', s: '}'}
+  - shortcut layer 2
   shortcut layer 1:
   - {t: '`', s: '~'}
   - F1
@@ -85,7 +85,7 @@ layers:
   - Gui+Sft+R
   - Alt+Sft+T
   - $$mdi:arrow-down-bold$$
-  - CALC
+  - AL CALCULATOR
   - PgUp
   - Ins
   - PgDn
@@ -111,7 +111,7 @@ layers:
   - Ctl+Alt+V
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:arrow-right-bold$$
-  - {t: \, s: '|'}
+  - {t: '$$mdi:transfer$$', type: trans}
   - Sft+Alt+M
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
